@@ -1,0 +1,16 @@
+D:\C# lesson\Simple Calculator\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.exe
+D:\C# lesson\Simple Calculator\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.deps.json
+D:\C# lesson\Simple Calculator\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.runtimeconfig.json
+D:\C# lesson\Simple Calculator\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.dll
+D:\C# lesson\Simple Calculator\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.pdb
+D:\C# lesson\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\Simple_Calculator.Form1.resources
+D:\C# lesson\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.csproj.GenerateResource.cache
+D:\C# lesson\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# lesson\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.AssemblyInfoInputs.cache
+D:\C# lesson\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.AssemblyInfo.cs
+D:\C# lesson\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.csproj.CoreCompileInputs.cache
+D:\C# lesson\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.dll
+D:\C# lesson\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\refint\Simple Calculator.dll
+D:\C# lesson\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.pdb
+D:\C# lesson\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.genruntimeconfig.cache
+D:\C# lesson\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\ref\Simple Calculator.dll
